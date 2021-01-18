@@ -1,0 +1,1 @@
+C:37:"PHPUnit\Runner\DefaultTestResultCache":284:{a:2:{s:7:"defects";a:0:{}s:5:"times";a:3:{s:61:"Besanek\LaravelAliasStorage\Tests\AliasStorageTest::testAlias";d:0.113;s:69:"Besanek\LaravelAliasStorage\Tests\AliasStorageTest::testMissingTarget";d:0.005;s:62:"Besanek\LaravelAliasStorage\Tests\AliasStorageTest::testCyclic";d:0.004;}}}
